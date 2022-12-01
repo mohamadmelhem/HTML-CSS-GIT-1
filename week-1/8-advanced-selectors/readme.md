@@ -2,6 +2,7 @@
 
 Sometimes you need to apply a CSS style to an element, but you don't want to apply it to all elements with the same tag, class or ID. In this exercise, you will use advanced CSS selectors to apply CSS styles to some elements but not others.
 
+
 Follow the steps below to complete this exercise. _Do not modify the index.html file._
 
 1. Use the [Child Selector](https://learn.shayhowe.com/advanced-html-css/complex-selectors/#child-selectors) to change the text that reads "All of your messages with Won are shown below." Make this text `white` without changing the colour of any other text.
